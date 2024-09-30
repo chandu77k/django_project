@@ -65,14 +65,14 @@ def logout_user(request):
 
 
 def index(request):
-	return render(request,'myapp/index.html')
+	return render(request,'index.html')
 def bengaluru(request):
-	return render(request,'myapp/bengaluru.html')
+	return render(request,'bengaluru.html')
 def delhi(request):
-	return render(request,'myapp/delhi.html')
+	return render(request,'delhi.html')
 def hyd(request):
-	return render(request,'myapp/hyd.html')
+	return render(request,'hyd.html')
 def kol(request):
-	return render(request,'myapp/kol.html')
+	return render(request,'kol.html')
 def mumbai(request):
-	return render(request,'myapp/mumbai.html')
+	return render(request,'mumbai.html')
