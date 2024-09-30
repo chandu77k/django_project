@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+yqmzv#i4xiqq^14w@9g4@!@x+w*6c9x@47(zc2pa%i#3lhjbk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'homeservices-kappa.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'django-project-silk.vercel.app']
 
 
 # Application definition
